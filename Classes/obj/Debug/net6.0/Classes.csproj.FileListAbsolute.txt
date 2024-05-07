@@ -1,0 +1,15 @@
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/jamesmohr/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
